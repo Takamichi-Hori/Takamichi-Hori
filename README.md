@@ -31,7 +31,7 @@ I'm especially interested in backend systems, cloud infrastructure, and IoT.
 
 ## Featured Projects
 
-### 🎫 FlashSeat
+### FlashSeat
 Full-stack ticket reservation application deployed on AWS.
 
 - Built a REST API using Node.js, Express, and PostgreSQL
@@ -42,7 +42,7 @@ Full-stack ticket reservation application deployed on AWS.
 
 **Tech:** TypeScript · Node.js · Express · PostgreSQL · Redis · AWS · Docker · Firebase · Next.js
 
-### 🐧 ArchPilot
+### ArchPilot
 Python CLI for planning and automating Arch Linux environment setup.
 
 - Detects system and hardware information
